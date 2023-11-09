@@ -18,6 +18,8 @@ You can reach me via:
 
 Feel free to connect or message me if you have any questions or ideas or want to chat!
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=CameronScarpati&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!---
 CameronScarpati/CameronScarpati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
