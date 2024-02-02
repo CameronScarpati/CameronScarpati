@@ -4,7 +4,7 @@ I'm currently studying at the University of Vanderbilt, based in Nashville, TN. 
 
 ### 👀 About Me
 
-I'm passionate about coding and becoming a well-rounded software developer in the finance and tech industry. In my free time, I enjoy playing chess and sudoku and learning new things.
+I'm passionate about coding and becoming a well-rounded software developer in the finance and tech industry. In my free time, I enjoy playing tennis, chess, sudoku and learning new things.
 
 ### 🌱 Currently Learning
 
