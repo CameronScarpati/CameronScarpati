@@ -14,7 +14,7 @@ I'm constantly learning and expanding my knowledge of Data Structures and Algori
 
 You can reach me via:
 - Email: cameronscarp@gmail.com
-- LinkedIn: https://www.linkedin.com/in/cameron-scarpati-6988ba181/
+- LinkedIn: https://www.linkedin.com/in/cameron-scarpati/
 
 Feel free to connect or message me if you have any questions or ideas or want to chat!
 
