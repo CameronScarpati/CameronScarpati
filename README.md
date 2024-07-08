@@ -13,17 +13,17 @@ I'm a Computer Science and Applied Mathematics double major at Vanderbilt Univer
 
 ## Skills
 
-![Java](https://img.shields.io/badge/Java-Proficient-brightgreen)
-![C++](https://img.shields.io/badge/C++-Limited%20Proficiency-yellow)
-![Python](https://img.shields.io/badge/Python-Beginner-orange)
-![Kotlin](https://img.shields.io/badge/Kotlin-Beginner-orange)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Expert-brightgreen)
-![JetBrains IDEs](https://img.shields.io/badge/JetBrains%20IDEs-Expert-brightgreen)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Expert-brightgreen)
-![Agile & Scrum](https://img.shields.io/badge/Agile%20%26%20Scrum-Experienced-blue)
-![SDLC](https://img.shields.io/badge/Software%20Development%20Life%20Cycle-Experienced-blue)
+![Java](https://img.shields.io/badge/Java-Proficient-brightgreen?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-Limited%20Proficiency-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Beginner-orange?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-Beginner-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-blue?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Expert-brightgreen?style=for-the-badge)
+![JetBrains IDEs](https://img.shields.io/badge/JetBrains%20IDEs-Expert-brightgreen?style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Expert-brightgreen?style=for-the-badge)
+![Agile & Scrum](https://img.shields.io/badge/Agile%20%26%20Scrum-Experienced-blue?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/Software%20Development%20Life%20Cycle-Experienced-blue?style=for-the-badge)
 
 ## Experience
 
