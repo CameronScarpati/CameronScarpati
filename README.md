@@ -1,26 +1,40 @@
-## 👋 Hi, I'm Cameron Scarpati
+# Hi there, I'm Cameron Scarpati! 👋
 
-I'm currently studying at the University of Vanderbilt, based in Nashville, TN. Welcome to my GitHub profile!
+![trophy](https://github-profile-trophy.vercel.app/?username=CameronScarpati&theme=onedark)
 
-### 👀 About Me
+## About Me
 
-I'm passionate about coding and becoming a well-rounded software developer in the finance and tech industry. In my free time, I enjoy playing tennis, chess, sudoku and learning new things.
+I'm a Computer Science and Applied Mathematics double major at Vanderbilt University, passionate about software development and all things computers. I have hands-on experience in various programming languages and development tools, and I enjoy contributing to impactful projects and research.
 
-### 🌱 Currently Learning
+📍 **Location:** Basking Ridge, NJ  
+🎓 **Education:** Vanderbilt University (Graduation: May 2026)  
+📬 **Email:** [cameronscarp@gmail.com](mailto:cameronscarp@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/cameron-scarpati](https://linkedin.com/in/cameron-scarpati)  
 
-I'm constantly learning and expanding my knowledge of Data Structures and Algorithms through tools like Hackerrank and LeetCode. Also, I intend to advance my understanding of software engineering through reading books such as Test Driven Development by Kent Beck and Modern Software Engineering by David Farley. I believe in lifelong learning and enjoy staying up-to-date with the latest developments in the field.
+## Skills
 
-### 📫 How to Reach Me
+![Java](https://img.shields.io/badge/Java-Proficient-brightgreen)
+![C++](https://img.shields.io/badge/C++-Limited%20Proficiency-yellow)
+![Python](https://img.shields.io/badge/Python-Beginner-orange)
+![Kotlin](https://img.shields.io/badge/Kotlin-Beginner-orange)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Expert-brightgreen)
+![JetBrains IDEs](https://img.shields.io/badge/JetBrains%20IDEs-Expert-brightgreen)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Expert-brightgreen)
+![Agile & Scrum](https://img.shields.io/badge/Agile%20%26%20Scrum-Experienced-blue)
+![SDLC](https://img.shields.io/badge/Software%20Development%20Life%20Cycle-Experienced-blue)
 
-You can reach me via:
-- Email: cameronscarp@gmail.com
-- LinkedIn: https://www.linkedin.com/in/cameron-scarpati/
+## Experience
 
-Feel free to connect or message me if you have any questions or ideas or want to chat!
+### Undergraduate Researcher
+**Vanderbilt University**  
+*January 2024 – Present*  
+- Developing a JetBrains IntelliJ plugin to oversee testing practices and prevent cheating.
+- Implementing secure data storage on AWS and creating an intuitive dashboard.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CameronScarpati&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!---
-CameronScarpati/CameronScarpati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Software Engineering Intern
+**LendOS**  
+*February 2024 – Present*  
+- Contributing to transforming commercial lending core systems.
+- Enhancing proficiency in functional programming languages like DAML and learning technologies like Docker and Kubernetes.
