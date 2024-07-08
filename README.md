@@ -1,7 +1,5 @@
 # Hi there, I'm Cameron Scarpati! 👋
 
-![trophy](https://github-profile-trophy.vercel.app/?username=CameronScarpati&theme=onedark)
-
 ## About Me
 
 I'm a Computer Science and Applied Mathematics double major at Vanderbilt University, passionate about software development and all things computers. I have hands-on experience in various programming languages and development tools, and I enjoy contributing to impactful projects and research.
@@ -38,3 +36,5 @@ I'm a Computer Science and Applied Mathematics double major at Vanderbilt Univer
 *February 2024 – Present*  
 - Contributing to transforming commercial lending core systems.
 - Enhancing proficiency in functional programming languages like DAML and learning technologies like Docker and Kubernetes.
+
+![trophy](https://github-profile-trophy.vercel.app/?username=CameronScarpati&theme=onedark)
