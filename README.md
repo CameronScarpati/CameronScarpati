@@ -27,9 +27,7 @@ I'm a Computer Science and Applied Mathematics double major at Vanderbilt Univer
 
 ### Undergraduate Researcher
 **Vanderbilt University**  
-*January 2024 – Present*  
-- Developing a JetBrains IntelliJ plugin to oversee testing practices and prevent cheating.
-- Implementing secure data storage on AWS and creating an intuitive dashboard.
+*January 2024 – Present*
 
 ### Software Engineering Intern
 **LendOS**  
