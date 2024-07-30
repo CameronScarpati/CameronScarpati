@@ -31,7 +31,7 @@ I'm a Computer Science and Applied Mathematics double major at Vanderbilt Univer
 
 ### Software Engineering Intern
 **LendOS**  
-*February 2024 – Present*  
+*February 2024 – August 2024*  
 - Contributing to transforming commercial lending core systems.
 - Enhancing proficiency in functional programming languages like DAML and learning technologies like Docker and Kubernetes.
 
