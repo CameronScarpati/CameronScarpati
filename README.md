@@ -14,7 +14,6 @@ I'm a Computer Science and Applied Mathematics double major at Vanderbilt Univer
 ![Java](https://img.shields.io/badge/Java-Proficient-brightgreen?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-Limited%20Proficiency-yellow?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Beginner-orange?style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-Beginner-orange?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-Beginner-orange?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Beginner-orange?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Proficient-brightgreen?style=for-the-badge)
