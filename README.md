@@ -31,7 +31,15 @@ I'm a Computer Science and Applied Mathematics double major at Vanderbilt Univer
 ### Software Engineering Intern
 **LendOS**  
 *February 2024 – August 2024*  
-- Contributing to transforming commercial lending core systems.
-- Enhancing proficiency in functional programming languages like DAML and learning technologies like Docker and Kubernetes.
+- Engineered components of a groundbreaking commercial lending platform enhancing its scalability and robustness.
+-	Partnered closely with the product team to ensure the platform’s user interface and functionality aligned seamlessly with strategic business goals, driving enhanced user satisfaction and engagement.
+
+### Teacher's Assistant
+**Vanderbilt University**
+*August 2024 - Present*
+- Held office hours and provided dedicated support and clarification on course materials and assignments.
+- Graded homework, exams, and final assessments for Program Design and Data Structures.
+
+![image](https://github.com/user-attachments/assets/b07333b9-9c93-4f16-a613-02413c25ee7e)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=CameronScarpati&theme=onedark)
