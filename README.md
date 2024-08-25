@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm a Computer Science and Applied Mathematics double major at Vanderbilt University, passionate about software development and all things computers. I have hands-on experience in various programming languages and development tools, and I enjoy contributing to impactful projects and research.
+I'm Cameron J. Scarpati, a Computer Science and Applied Mathematics double major at Vanderbilt University, proudly maintaining a 4.0 GPA. I'm really into the intersection of technology and finance, and I'm keen on exploring how these fields can merge to innovate and solve complex problems. While I've got some experience with tools like NestJS, Angular, and Kotlin, and a bit of AWS, I’m still on a learning journey, eager to deepen my understanding. I’m passionate about making an impact in the finance sector through tech, and I’m always looking for ways to blend my academic knowledge with real-world experience.
 
-📍 **Location:** Basking Ridge, NJ  
+📍 **Location:** Basking Ridge, NJ
 🎓 **Education:** Vanderbilt University (Graduation: May 2026)  
 📬 **Email:** [cameronscarp@gmail.com](mailto:cameronscarp@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/cameron-scarpati](https://linkedin.com/in/cameron-scarpati)  
@@ -39,7 +39,5 @@ I'm a Computer Science and Applied Mathematics double major at Vanderbilt Univer
 *August 2024 - Present*
 - Held office hours and provided dedicated support and clarification on course materials and assignments.
 - Graded homework, exams, and final assessments for Program Design and Data Structures.
-
-![image](https://github.com/user-attachments/assets/b07333b9-9c93-4f16-a613-02413c25ee7e)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=CameronScarpati&theme=onedark)
