@@ -12,9 +12,9 @@ I'm Cameron J. Scarpati, a Computer Science and Applied Mathematics double major
 ## Skills
 
 ![Java](https://img.shields.io/badge/Java-Proficient-brightgreen?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-Limited%20Proficiency-yellow?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-Proficient-brightgreen?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Beginner-orange?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Beginner-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-yellow?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Beginner-orange?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Proficient-brightgreen?style=for-the-badge)
 ![JetBrains IDEs](https://img.shields.io/badge/JetBrains%20IDEs-Proficient-brightgreen?style=for-the-badge)
