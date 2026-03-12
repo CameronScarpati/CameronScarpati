@@ -46,12 +46,6 @@ An interactive C++/OpenGL visualization of the Collatz conjecture — one of mat
 - Revamped stress-testing framework across Client Connectivity Services increasing throughput up to ~45%
 - Researched C++ to push the limits of sending TCP messages at speeds of up to ~3–4 million per second
 
-### Undergraduate Researcher
-**Vanderbilt University** · NestJS | Angular | Kotlin & Gradle | AWS
-*January 2024 – Present* · Nashville, TN
-- Spearheaded the development of "DevStats," an application to promote academic integrity at Vanderbilt by monitoring student activities and identifying patterns indicative of academic dishonesty
-- Architected a secure application capable of handling 1000+ logs per student weekly, serving 300+ users
-
 ### Software Engineering Intern
 **LendOS** · NestJS | React | DAML | Agile & Scrum
 *June 2024 – August 2024* · Remote
@@ -70,7 +64,6 @@ An interactive C++/OpenGL visualization of the Collatz conjecture — one of mat
 
 ## Publications & Research
 
-- **DevStats: A Novel Code Plagiarism Detector** — Primary Author | CRA Research Award Honorable Mention | *ITiCSE 2026* (Manuscript in Preparation)
 - **Deep Learning Side-Channel Analysis** — Primary Author | *ITiCSE 2026* (Manuscript in Preparation)
 - **Alternative Risk Measures and Stock Selection** — Editorial Contributor | Under Review (2025)
   - Delivered editorial guidance and LaTeX formatting for research on entropy and Hurst exponent as volatility measures
