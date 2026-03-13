@@ -31,6 +31,9 @@ I'm a Computer Science and Applied Mathematics double major at Vanderbilt Univer
 ### 📈 [LOB Regime Scanner](https://github.com/CameronScarpati/lob-regime-scanner)
 A market microstructure analytics platform that detects hidden trading regimes from cryptocurrency order book data using **Gaussian Hidden Markov Models**. Processes Level 2 order book snapshots and extracts 30+ microstructure features (OFI, VPIN, Kyle's λ, book imbalance, realized volatility at multiple scales) to identify three distinct market states — Quiet, Trending, and Toxic. Key finding: VPIN spikes 30–120 seconds *before* toxic regime transitions, serving as a leading indicator of adverse selection. A regime-conditional strategy achieves a **1.8–2.5 annualized Sharpe ratio**. Built with Python 3.11+ and a **C++17/pybind11 LOB engine** processing 1M+ updates/sec, with an interactive Plotly Dash dashboard.
 
+### 📊 [Vol Surface Engine](https://github.com/CameronScarpati/vol-surface-engine)
+An arbitrage-free implied volatility surface construction engine for live SPY options. Fetches real-time options chains via yfinance, extracts implied volatility using **Newton-Raphson** root-finding (with Brent's method fallback, convergence to |Δσ| < 10⁻¹⁰), and fits the **SVI parameterization** per expiry slice via multi-start L-BFGS-B optimization. Enforces **Durrleman butterfly** and calendar-spread monotonicity no-arbitrage constraints, computes **Dupire local volatility** and full Black-Scholes Greeks (Δ, Γ, ν, Θ). Achieves <0.5 vol-point RMSE across all slices while identifying 15–20 statistically significant mispricings per snapshot. Interactive **Streamlit** dashboard with 3D surface plots, delta-space smile views, Greeks heatmaps, and arbitrage diagnostics. Built with Python, NumPy, SciPy, and Plotly; tested with **130 pytest tests** and CI via GitHub Actions.
+
 ### 🎯 [Buckshot Roulette Bot](https://github.com/CameronScarpati/buckshot-roulette-bot)
 A C++17 AI agent that plays the game Buckshot Roulette using **Expectiminimax search with alpha-beta pruning**. Evaluates thousands of game states per move within a 7-second budget via iterative deepening (depths 5–20). The game tree models max nodes (bot), min nodes (opponent), and chance nodes (shell uncertainty), with leaf scoring driven by weighted heuristics: health differential (600 pts), shell knowledge (300 pts), and item valuations (15–40 pts). Demonstrates adversarial search under uncertainty — a core algorithmic pattern in quantitative decision-making.
 
@@ -72,4 +75,6 @@ An interactive C++/OpenGL visualization of the Collatz conjecture — one of mat
 
 Club Tennis Team | Conversational Italian | Rock Climbing | Chess | Sudoku | Table Tennis | Pool
 
-![trophy](https://github-profile-trophy.vercel.app/?username=CameronScarpati&theme=onedark)
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CameronScarpati&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/CameronScarpati)
