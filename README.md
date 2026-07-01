@@ -13,7 +13,7 @@ I graduated from Vanderbilt University summa cum laude with a 4.0, majoring in C
 ### 🎯 Quick Facts
 
 - 🎓 Incoming **MSCF** at **Carnegie Mellon University**, Tepper School of Business (Pittsburgh, PA); expected Dec 2027
-- 🎓 **Vanderbilt University**, B.A. in Computer Science and Mathematics, summa cum laude, 4.0 GPA (May 2026)
+- 🎓 **Vanderbilt University**, B.A. in Computer Science and Mathematics, minor in Data Science, summa cum laude, 4.0 GPA (May 2026)
 - 💼 Ex-**Morgan Stanley** Equity Algorithms intern (Speedway Team)
 - 🔬 Undergraduate researcher in computing-education analytics
 - 📍 Basking Ridge, NJ
