@@ -46,7 +46,7 @@ Computing Research Association Outstanding Undergraduate Researcher Award, Honor
 ## 🚀 Featured Projects
 
 ### 📊 [Vol Surface Engine](https://github.com/CameronScarpati/vol-surface-engine)
-A personal learning project that builds an arbitrage-free implied-volatility surface for live SPY options. It pulls option chains, backs out implied volatility with Newton-Raphson root-finding (Brent's method as a fallback), and fits the SVI parameterization per expiry slice with multi-start L-BFGS-B optimization. It enforces butterfly and calendar no-arbitrage constraints, then computes Dupire local volatility and the full Black-Scholes Greeks. Written in Python with NumPy and SciPy, with a Streamlit dashboard and a full pytest suite. It is a hands-on way to learn options and surface construction while I ramp up at MSCF.
+A personal learning project that builds an implied-volatility surface for live SPY options. It pulls option chains, backs out implied volatility with Newton-Raphson root-finding (Brent's method as a fallback), and fits the SVI parameterization per expiry slice with multi-start L-BFGS-B optimization. It checks the butterfly and calendar no-arbitrage conditions and reports violations rather than enforcing them, then computes Dupire local volatility and the full Black-Scholes Greeks. Written in Python with NumPy and SciPy, with a Streamlit dashboard and a full pytest suite. It is a hands-on way to learn options and surface construction while I ramp up at MSCF.
 
 ### 📈 [LOB Regime Scanner](https://github.com/CameronScarpati/lob-regime-scanner)
 A personal learning project that explores how hidden trading regimes can be detected from cryptocurrency order-book data using Gaussian Hidden Markov Models. It ingests Level 2 order-book snapshots and engineers roughly 30 features (order-flow imbalance, VPIN, book imbalance, realized volatility at multiple scales) to separate quiet, trending, and toxic states. The heavy lifting runs through a C++17 and pybind11 order-book engine, with the modeling and analysis in Python. I built it to learn quant research methods end to end as I move into MSCF.
@@ -55,7 +55,10 @@ A personal learning project that explores how hidden trading regimes can be dete
 A C++17 AI agent that plays Buckshot Roulette using expectiminimax search with alpha-beta pruning. It evaluates thousands of game states per move inside a time budget using iterative deepening, modeling max nodes, min nodes, and chance nodes with a weighted heuristic evaluation. It is a compact study in adversarial search under uncertainty.
 
 ### 🌀 [Collatz Conjecture Visualized](https://github.com/CameronScarpati/collatz-conjecture-visualized)
-An interactive C++ and OpenGL visualization of the Collatz conjecture, with bulk sequence generation, targeted number selection, animated gradient rendering, logarithmic and linear axis toggles, and real-time statistics. Memoization gives constant-time lookups on sequences already computed.
+An interactive mathematics demo built with React, TypeScript, and HTML5 canvas. It animates the hailstone trajectories of the 3n + 1 problem, grows the reverse Collatz tree into an organic coral rendering, and charts stopping times with the record setters highlighted, with the mathematics typeset beside each chart. Built as a portfolio project to explore mathematical visualization.
+
+### 📉 [Cauchy Convergence](https://github.com/CameronScarpati/cauchy-convergence)
+An interactive statistics demo built with React, TypeScript, and HTML5 canvas. It runs seeded simulations to show why the running mean of Cauchy samples never converges while the running median locks onto the location parameter, with the mathematics typeset beside a live chart. Built as a portfolio project to explore statistical visualization.
 
 ## 💼 Experience
 
