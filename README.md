@@ -14,7 +14,7 @@ I graduated from Vanderbilt University summa cum laude with a 4.0, majoring in C
 
 - 🎓 **MSCF** at **Carnegie Mellon University**, Tepper School of Business (Pittsburgh, PA); expected Dec 2027
 - 🎓 **Vanderbilt University**, B.A. in Computer Science and Mathematics, minor in Data Science, summa cum laude, 4.0 GPA, class rank 1 of 951 in the College of Arts and Science (May 2026)
-- 💼 Ex-**Morgan Stanley** Equity Algorithms intern (Speedway Team)
+- 💼 Ex-**Morgan Stanley** Technology Summer Analyst, Equity Algorithms (Speedway Team)
 - 🔬 Undergraduate researcher in computing-education analytics
 - 📍 Pittsburgh, PA
 - 📬 [cameronscarp@gmail.com](mailto:cameronscarp@gmail.com)
@@ -58,9 +58,9 @@ An interactive statistics demo built with React, TypeScript, and HTML5 canvas. I
 
 ## 💼 Experience
 
-### Morgan Stanley · Equity Algorithms Intern (Speedway Team)
+### Morgan Stanley · Technology Summer Analyst, Equity Algorithms (Speedway Team)
 *New York, NY · Jun 2025 to Aug 2025*
-- Worked on the team that owns Speedway, an ultra-low-latency execution system that connects institutional clients to exchanges and sustains 25,000 client orders per second for high-frequency trading and market making.
+- Worked on the team that owns Speedway, an ultra-low-latency execution system that connects institutional and non-institutional clients to exchanges and sustains 25,000 client orders per second for high-frequency trading and market making.
 - Rebuilt the stress-test framework across Client Connectivity Services and raised the framework's own throughput by roughly 45 percent after tracing a thread-contention bottleneck, delivering in two weeks what was scoped at ten.
 - Researched C++ techniques to push TCP message rates toward 3 to 4 million messages per second.
 - Received a return offer.
@@ -69,7 +69,7 @@ An interactive statistics demo built with React, TypeScript, and HTML5 canvas. I
 *Remote · Jun 2024 to Aug 2024*
 - Debugged and cleaned up frontend components on a commercial lending platform.
 - Updated and improved data-entry forms in close coordination with the product team.
-- Contributed, as part of the team, toward the platform's Blackstone MVP (LendOS raised a Series A led by Blackstone Innovations).
+- Contributed, as part of the team, toward the platform's Blackstone MVP (LendOS later raised a Series A led by Blackstone Innovations Investments).
 - Received a return offer.
 - *Stack: NestJS · DAML*
 
