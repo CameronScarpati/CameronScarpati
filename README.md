@@ -10,7 +10,7 @@ I am a computer scientist and mathematician who comes at quantitative finance fr
 
 I graduated from Vanderbilt University summa cum laude with a 4.0, majoring in Computer Science and Mathematics, and my undergraduate research earned a national Honorable Mention for the Computing Research Association Outstanding Undergraduate Researcher Award. I am looking for a Summer 2027 internship in quant research, systematic trading, or quant development.
 
-### 🎯 Quick Facts
+### 📌 Quick Facts
 
 - 🎓 **MSCF** at **Carnegie Mellon University**, Tepper School of Business (Pittsburgh, PA); expected Dec 2027
 - 🎓 **Vanderbilt University**, B.A. in Computer Science and Mathematics, minor in Data Science, summa cum laude, 4.0 GPA, class rank 1 of 951 in the College of Arts and Science (May 2026)
@@ -37,7 +37,7 @@ Computing Research Association Outstanding Undergraduate Researcher Award, Honor
 
 **Focus areas:** Low-Latency Systems · Multithreading · Performance Optimization · TCP/IP · Machine Learning · Probability &amp; Statistics · Linear Algebra · Optimization · Data Structures &amp; Algorithms
 
-**Vanderbilt coursework:** Data Structures · Algorithms · Machine Learning · Financial Mathematics · Linear Optimization · Probability &amp; Statistics · Differential Equations · Linear Algebra · Operating Systems · Computer Architecture · Database Systems
+**Vanderbilt coursework:** Data Structures · Algorithms · Machine Learning · Financial Mathematics · Linear Optimization · Probability &amp; Statistics · Calculus I to III · Differential Equations · Linear Algebra · Operating Systems · Computer Architecture · Database Systems
 
 ## 🚀 Featured Projects
 
@@ -89,4 +89,4 @@ I also contributed to a Multi-Chip Ensemble side-channel analysis project that c
 
 ## 🎾 Interests
 
-Tennis (playing since age four, high school varsity and senior captain) · Skiing · Rock Climbing · Chess · Sudoku · Table Tennis (2nd place, MSCF tournament) · Pool · Conversational Italian
+Tennis (playing since age four, high school varsity and senior captain) · Skiing · Rock Climbing · Chess · Sudoku · Table Tennis (2nd place, MSCF tournament) · Billiards · Conversational Italian
