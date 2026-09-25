@@ -60,7 +60,7 @@ An interactive statistics demo built with React, TypeScript, and HTML5 canvas. I
 
 ### Morgan Stanley · Technology Summer Analyst, Equity Algorithms (Speedway Team)
 *New York, NY · Jun 2025 to Aug 2025*
-- Worked on the team that owns Speedway, an ultra-low-latency execution system that connects institutional and non-institutional clients to exchanges and sustains 25,000 client orders per second for high-frequency trading and market making.
+- Worked on the team that owns Speedway, an ultra-low-latency execution system that connects institutional and non-institutional clients to exchanges for high-frequency trading and market making.
 - Rebuilt the stress-test framework across Client Connectivity Services and raised the framework's own throughput by roughly 45 percent after tracing a thread-contention bottleneck, delivering in two weeks what was scoped at ten.
 - Researched C++ techniques to push TCP message rates toward 3 to 4 million messages per second.
 - Received a return offer.
