@@ -83,9 +83,9 @@ An interactive statistics demo built with React, TypeScript, and HTML5 canvas. I
 
 ## 🔬 Research
 
-As an undergraduate researcher at Vanderbilt, I helped build an internal analytics platform that supports computer science instructors, built to handle more than 1,000 events per user each week across more than 300 users. My work focused on the data pipeline and on validating the platform's signals against ground truth using standard classifier evaluation (precision, recall, and accuracy). This research is being prepared for submission to ITiCSE 2027.
+As an undergraduate researcher at Vanderbilt, I helped build an internal analytics platform that supports computer science instructors, built to handle more than 1,000 events per user each week across more than 300 users. My work focused on the data pipeline and on validating the platform's signals against ground truth using standard classifier evaluation (precision, recall, and accuracy). A paper on this research has been submitted to ICSE-SEET 2027.
 
-I also contributed to a Multi-Chip Ensemble side-channel analysis project that combines readings across devices to reduce noise. The project won first place at Vanderbilt's CS Immersion Showcase, sponsored by FortyAU.
+I also contributed to a Multi-Chip Ensemble side-channel analysis project that combines readings across devices to reduce noise. The project won first place at Vanderbilt's CS Immersion Showcase (FortyAU-sponsored).
 
 ## 🎾 Interests
 
